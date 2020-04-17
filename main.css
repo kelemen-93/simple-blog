@@ -44,6 +44,34 @@ table {
 	border-spacing: 0;
 }
 
+/* === Base Styles === */
+
+body {
+  font-family: Merriweather, "Times New Roman", sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: #333;
+}
+
+.header-par {
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #8c8e9b;
+}
+
+h1, h2 {
+  font-family: "Open Sans", Arial, serif;
+}
+
+h1 {
+  font-size: 28.8px;
+}
+
+h2 {
+  font-size: 25.6px;
+  color: #e5127d;
+}
+
 .main-header {
   background-color: rgba(255,248,53,0.3);
 }
