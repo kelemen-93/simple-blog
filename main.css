@@ -48,14 +48,14 @@ table {
 
 body {
   font-family: Merriweather, "Times New Roman", sans-serif;
-  font-size: 18px;
-  line-height: 32px;
+  font-size: 1.125rem;
+  line-height: 2rem;
   color: #333;
 }
 
 .header-par {
-  font-size: 18px;
-  letter-spacing: 2px;
+  font-size: 1.125rem;
+  letter-spacing: 0.125rem;
   color: #8c8e9b;
 }
 
@@ -64,11 +64,11 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 28.8px;
+  font-size: 1.8rem;
 }
 
 h2 {
-  font-size: 25.6px;
+  font-size: 1.6rem;
   color: #e5127d;
 }
 
@@ -79,6 +79,11 @@ h2 {
 .primary-content {
   background-color: rgba(140,96,255,0.3);
 }
+
 .text-article {
   background-color: rgba(255,0,0,0.3);
+}
+
+.picture {
+  width: 100%;
 }
